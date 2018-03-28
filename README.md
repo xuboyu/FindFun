@@ -3,7 +3,7 @@
 
 主界面运行截图：
 =
-![news](https://github.com/xuboyu/cory_boyu/raw/master/image/show.png )  
+![news]( cory_boyu/image/show.png )  
 
 主要功能模块模块:
 =
