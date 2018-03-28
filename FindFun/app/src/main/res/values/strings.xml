@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FindFun</string>
+    <string name="string_about_github">Github: https://github.com/xuboyu</string>
+    <string name="string_about_email">E-mail：boyu274572505@qq.com</string>
+    <string name="string_about_blog">CSDN: https://blog.csdn.net/ssbby</string>
+    <string name="about_background"><![CDATA[https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1522172810504&di=a289b21278340ec8694472b114fee7d7&imgtype=0&src=http%3A%2F%2Fimg14.3lian.com%2F201509%2F02%2Fc79da004fe66a5d3aa2ae42062dd5302.jpg]]></string>
+
+    <string-array name="news_type_cn">
+        <item>头条</item>
+        <item>社会</item>
+        <item>国内</item>
+        <item>国际</item>
+        <item>娱乐</item>
+        <item>体育</item>
+        <item>军事</item>
+        <item>科技</item>
+        <item>财经</item>
+        <item>时尚</item>
+    </string-array>
+    <string-array name="news_type_en">
+        <item>toutiao</item>
+        <item>shehui</item>
+        <item>guonei</item>
+        <item>guoji</item>
+        <item>yule</item>
+        <item>tiyu</item>
+        <item>junshi</item>
+        <item>keji</item>
+        <item>caijing</item>
+        <item>shishang</item>
+    </string-array>
+</resources>
