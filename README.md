@@ -1,6 +1,10 @@
 # cory_boyu
 《FindFun》：一款基于Rxjava+RetroFit的简单APP。
 
+主界面运行截图：
+=
+
+
 主要功能模块模块:
 =
 (1)新闻界面<br>
