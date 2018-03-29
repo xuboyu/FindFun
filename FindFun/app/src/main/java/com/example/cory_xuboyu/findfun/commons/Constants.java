@@ -15,12 +15,6 @@ public class Constants {
             = "http://v.juhe.cn/toutiao/index?key=d78b502268f7456b79fbe7228cecdd46";
 
     /**
-     * 问答机器人接口
-     */
-    public static final String Q_A_ROBOT_URL
-            = "http://op.juhe.cn/robot/index?key=98b8f13ededd2f7e1d593819a6bb3639";
-
-    /**
      * 历史上今天接口
      */
     public static final String TODAY_OF_HISTORY_URP
@@ -50,10 +44,6 @@ public class Constants {
     public static final String GIG_RANDOM_URL
             = "http://v.juhe.cn/joke/randJoke.php?key=ae240f7fba620fc370b803566654949e&type=pic";
 
-    public static final String DOWNLOAD_URL
-            = "https://github.com/xiaweizi/QNews/raw/master/QNews.apk";
-
-
     /**
      * 段子 baseUrl
      */
@@ -64,5 +54,4 @@ public class Constants {
      */
     public static final String BASE_JUHE_URL = "http://v.juhe.cn/";
 
-    public static final String BASE_Q_A_ROBOT_URL = "http://op.juhe.cn/robot/";
 }

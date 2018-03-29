@@ -70,7 +70,6 @@ class NewsFragment : Fragment(){
         }
         magicIndicator.navigator = commonNavigator
         ViewPagerHelper.bind(magicIndicator, view.main_viewpager!!)
-        /** */
 
         return view
     }
