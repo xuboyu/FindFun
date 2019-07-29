@@ -1,5 +1,5 @@
 # FindFun
-## 《FindFun》：一款基于Rxjava+RetroFit的简单APP。
+基于Rxjava+RetroFit的简易新闻阅读APP。
 
 ## 主界面运行截图：
 <img src="https://github.com/xuboyu/cory_boyu/raw/master/image/show.png" width="250">
